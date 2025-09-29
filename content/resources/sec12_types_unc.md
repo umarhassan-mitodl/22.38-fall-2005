@@ -5,6 +5,8 @@ description: This file contains notes on factors of uncertainty, important sourc
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/8c54a94768f6739618620b420dafb0c1_sec12_types_unc.pdf
 file_size: 121561
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

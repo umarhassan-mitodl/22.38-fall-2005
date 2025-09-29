@@ -4,6 +4,8 @@ description: This file contains notes on failure causes.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/16b111daa6e9244c8dc91ddf8ab37698_sec9_failure.pdf
 file_size: 68116
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

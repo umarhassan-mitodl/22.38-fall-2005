@@ -5,6 +5,8 @@ description: This file contains the solutions to the questions asked for exercis
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/86203822e87bc0e323ce01298c0b259b_ps10_sol.pdf
 file_size: 63575
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

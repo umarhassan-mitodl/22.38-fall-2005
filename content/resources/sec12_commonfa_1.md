@@ -5,6 +5,8 @@ description: This file contains notes on types of common failures and their aspe
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/326f503846572f8ccaac94089d13de44_sec12_commonfa_1.pdf
 file_size: 134675
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

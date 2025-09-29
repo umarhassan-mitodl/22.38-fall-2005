@@ -4,6 +4,8 @@ description: This file contains notes for uncertainty.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/36d4b1be20773dc863d054afd0c82165_sec12_uncertaint.pdf
 file_size: 172736
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This file contains solutions to the questions asked from the readin
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/6d25224e84817c0f16ebe8383a1f7cab_ps3_solutions.pdf
 file_size: 103864
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

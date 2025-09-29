@@ -4,6 +4,8 @@ description: ''
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/0d7e01656a0b0bdc8eb2d8d254b63f2e_ps3_extracredit.pdf
 file_size: 38123
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

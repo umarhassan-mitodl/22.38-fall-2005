@@ -5,6 +5,8 @@ description: This file contains notes for PRA in managing operations using a ris
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/75cf8c3aee2a9407f400790b633eb9b3_sec12_management.pdf
 file_size: 192157
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

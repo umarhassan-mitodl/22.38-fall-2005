@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Exams section contains two examination files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

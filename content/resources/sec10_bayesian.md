@@ -4,6 +4,8 @@ description: This file contains notes for bayes theorem.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/b6ebd99717a01000f60534a14fc42bfc_sec10_bayesian.pdf
 file_size: 397811
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

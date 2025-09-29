@@ -4,6 +4,8 @@ description: This file contains exercise solutions based on the readings assignm
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/3ab74e8a88fff55302138876fed2fd1e_ps6_sol.pdf
 file_size: 89042
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
