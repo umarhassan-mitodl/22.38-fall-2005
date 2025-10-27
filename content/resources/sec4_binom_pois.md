@@ -5,8 +5,6 @@ description: 'This file contains notes for: Convergence of Binomial and Poisson 
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/20066ab67a7c2a179d2be459d0fde2f0_sec4_binom_pois.pdf
 file_size: 26022
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

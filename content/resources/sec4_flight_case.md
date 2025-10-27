@@ -4,8 +4,6 @@ description: This file contains a plane crash example for probability distributi
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/5fe454b98fde9412f08b9272a7db619f_sec4_flight_case.pdf
 file_size: 168741
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

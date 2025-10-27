@@ -4,8 +4,6 @@ description: This file contains notes for PRA structure and results.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/42cb79f0abc3c3876031fa030c8df165_sec12_pra_struct.pdf
 file_size: 1155711
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

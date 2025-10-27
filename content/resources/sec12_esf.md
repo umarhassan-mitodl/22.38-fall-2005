@@ -4,8 +4,6 @@ description: This file contains notes and diagrams for engineered safety feature
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/703c2a74813b121e0b168829d4b5518c_sec12_esf.pdf
 file_size: 110672
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

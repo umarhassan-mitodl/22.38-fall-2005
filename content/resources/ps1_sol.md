@@ -4,8 +4,6 @@ description: This file contains the solutions to the questions asked in the exer
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/d81cdf3301e774f60b9a957372cd1862_ps1_sol.pdf
 file_size: 49782
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

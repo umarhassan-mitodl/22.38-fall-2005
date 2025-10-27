@@ -4,8 +4,6 @@ description: This file contains notes for probabilistic concepts.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/f7b06d413db762b2fc13df1698856735_sec4_binomial.pdf
 file_size: 280717
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

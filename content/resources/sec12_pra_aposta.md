@@ -4,8 +4,6 @@ description: This file contains notes for PRA history and its overview.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/347f7cfb9fbf49c18e55af60309acd75_sec12_pra_aposta.pdf
 file_size: 1909727
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

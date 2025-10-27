@@ -4,8 +4,6 @@ description: This file contains exam questions along with the solutions.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/6cdbdeb0709caeaadd710bbf14d9bb81_q1_solution.pdf
 file_size: 2927632
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

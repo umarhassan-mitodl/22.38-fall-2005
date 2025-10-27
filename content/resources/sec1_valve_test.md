@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/087c734e51966d2ec13358c2c2c01dde_sec1_valve_test.pdf
 file_size: 49566
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

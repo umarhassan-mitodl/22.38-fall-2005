@@ -4,8 +4,6 @@ description: This file contains notes and figures for containment.
 file: /courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/62f8433e88d353435351017ad991d727_sec12_containmen.pdf
 file_size: 69047
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
